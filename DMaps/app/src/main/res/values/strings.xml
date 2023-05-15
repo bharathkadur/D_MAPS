@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DMaps</string>
+    <string name="mapbox_access_token">sk.eyJ1IjoicmF5ZXNoYTMyMjE3IiwiYSI6ImNsMnl1M3hhcjE5MGkza21waDA4ZjNtcXIifQ.LqzoqZwsytMZFEyNg-0cvA</string>
+</resources>
